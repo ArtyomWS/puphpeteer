@@ -1,5 +1,5 @@
 {
-  "name": "@zoon/puphpeteer",
+  "name": "@artyomws/puphpeteer",
   "version": "2.1.0",
   "description": "A Puppeteer bridge for PHP, supporting the entire API.",
   "keywords": [
@@ -17,13 +17,13 @@
     "url": "https://johann.pardanaud.com/"
   },
   "license": "MIT",
-  "repository": "git+https://github.com/zoonru/puphpeteer.git",
+  "repository": "git+https://github.com/ArtyomWS/puphpeteer.git",
   "engines": {
     "node": ">=9.0.0"
   },
   "dependencies": {
     "@zoon/rialto": "git+https://github.com/zoonru/rialto.git#semver:^1.5.0",
-    "puppeteer": "^20"
+    "puppeteer": "^22"
   },
   "devDependencies": {
     "@types/yargs": "^15.0.10",
